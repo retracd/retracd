@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @retracd, a programmer and a highschool Junior. I have earned 4th SQL Place Database Fundamentals and 16th Place C++ Programming at BPA Nationals 2022.
-- 👀 I’m interested in ... learning new things!
-- 🌱 I’m currently learning ... Python, C++, SQL + Database Management, and algorithmic principles.
+- 👋 Hi, I’m @retracd, a programmer and a highschool Junior. I have earned 3rd place in both SQL Place Database Fundamentals and C++ Programming at BPA Nationals 2023.
+- 👀 I’m interested in ... learning new things + expanding my opportunities!
+- 🌱 I’m currently learning ... Networking, Ethical Hacking, Python, C++, SQL + Database Management, and algorithmic principles.
 - 💞️ I’m looking to collaborate on ... Any project that could help me gain experience in team development in the real world.
 - 📫 How to reach me ... check the link under my profile picture. 
 
