@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @retracd, a programmer and a highschool Senior. I have earned 3rd place in both SQL Place Database Fundamentals and C++ Programming at BPA Nationals 2023.
+- 👋 Hi, I’m @retracd (Brent Mayes), a programmer and a University of Michigan Class of 2028 Student. My most recent achievement was earning 1st place in SQL Place Database Fundamentals at BPA Nationals 2024.
 - 👀 I’m interested in ... learning new things + expanding my horizons!
 - 🌱 I’m currently learning ... Networking, Ethical Hacking, Python, C++, SQL + Database Management, and algorithmic principles.
 - 💞️ I’m looking to collaborate on ... Any project that could help me gain experience in team development in the real world.
